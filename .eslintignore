@@ -1,0 +1,11 @@
+node_modules
+dist
+webpack.config.js
+src/assets
+*.scss
+*.svg
+*.ttf
+*.png
+*.jpg
+*.gif
+*test.js
